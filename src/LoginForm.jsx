@@ -2,7 +2,7 @@ import React from 'react';
 
 const Login = () => {
   const handleLogin = () => {
-    // Lógica de inicio de sesión
+    //Inicio de sesion y llamada al backend
   };
 
   return (
