@@ -8,7 +8,7 @@ const Home = () => {
     <div className="bg-gray-200 min-h-screen p-4">
       <HomeMenu />
       <div className="my-4">
-        <h2 className="text-3xl text-blue-700">Handy</h2>
+        <h2 className="text-3xl text-blue-700">Handy Home</h2>
         <div className="relative mt-4">
           <span className="absolute inset-y-0 left-0 pl-3 flex items-center">
             <svg className="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20">
